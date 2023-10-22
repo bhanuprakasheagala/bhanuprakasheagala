@@ -1,3 +1,7 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif" width="200"/>
+</div>
+
 ### Hi there 👋
 
 <!--
@@ -14,3 +18,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# About Me
+I am Bhanuprakash Eagala, A Computer Science enthusiast and a Software Developer interested in problem solving. 
