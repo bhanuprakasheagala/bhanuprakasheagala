@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Bhanuprakash Eagala</h1>
-<h3 align="center">A ComputerScience enthusiast and a Software Developer from India</h3>
+<h3 align="center">A Computer Science enthusiast and a Software Developer from India</h3>
 
 - 🔭 I’m currently working As **C++ Developer in Automotive domain**
 
@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **C/C++ and Open Source Projects**
 
-- 🤝 I’m looking for help with **Guided Mentorship in building projects and contribute to Open source Projects in the areas of System Programming**
+- 🤝 I’m looking for help with **Guided Mentorship in building projects and contribute to Open source Projects in the area of System Programming**
 
 - 📝 I regularly write articles on [https://bhanuprakasheagala.hashnode.dev](https://bhanuprakasheagala.hashnode.dev)
 
