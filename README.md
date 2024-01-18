@@ -5,9 +5,9 @@
 <h1 align="center">Hi 👋, I'm Bhanuprakash Eagala</h1>
 <h3 align="center">A Computer Science enthusiast and a Software Developer from India</h3>
 
-- 🔭 I’m currently working As **C++ Developer in Automotive domain**
+- 🔭 I’m currently working as **C/C++ Developer in ADAS(Automotive domain)**
 
-- 🌱 I’m currently exploring **C, C++, Linux, AUTOSAR, and Rust Programming**
+- 🌱 I’m currently exploring **C, C++, Linux, AUTOSAR, and System Programming**
 
 - 👯 I’m looking to collaborate on **C/C++ and Open Source Projects**
 
