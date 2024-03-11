@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working as **C/C++ Developer in ADAS(Automotive domain)**
 
-- 🌱 I’m currently exploring **C, C++, Linux, AUTOSAR, and System Programming**
+- 🌱 Currently exploring **C, C++, Linux, AUTOSAR, and System Programming**
 
-- 👯 I’m looking to collaborate on **C, C++, OS and Network Programming**
+- 👯 I’m looking to collaborate on **C, C++, Operating System and Network Programming** and open to work in the domains related to **System Programming**
 
 - 📝 I regularly write articles on [https://bhanuprakasheagala.hashnode.dev](https://bhanuprakasheagala.hashnode.dev)
 
