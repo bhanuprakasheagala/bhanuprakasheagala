@@ -9,11 +9,10 @@
 
 - 🌱 Currently exploring **C, C++, Linux, AUTOSAR, and System Programming**
 
-- 👯 I’m looking to collaborate on **C, C++, Operating System and Network Programming** and open to work in the domains related to **System Programming**
+- 👯 I’m looking to collaborate on **C, C++, Operating System and Network Programming** and interested to work in the areas of **Compilers, Linux, RTOS, Network and System Programming**
 
 - 📝 I regularly write articles on [https://bhanuprakasheagala.hashnode.dev](https://bhanuprakasheagala.hashnode.dev)
 
-- 💬 Ask me about **C,C++,and Operating Systems**
 ### My Absolute Favirotes
 * I love exploring new technologies and building cool stuff. <br>
 * Reading, writing & watching Tech Stuff whenever possible.
