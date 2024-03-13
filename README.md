@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working as **C/C++ Developer in ADAS(Automotive domain)**
 
-- 🌱 Currently exploring **C, C++, Linux, AUTOSAR, and System Programming**
+- 🌱 Exploring **C, C++, Linux, AUTSAR, Network and System Programming**
 
 - 👯 I’m looking to collaborate on **C, C++, Operating System and Network Programming** and interested to work in the areas of **Compilers, Linux, RTOS, Network and System Programming**
 
@@ -15,7 +15,7 @@
 
 ### My Absolute Favirotes
 * I love exploring new technologies and building cool stuff. <br>
-* Reading, writing & watching Tech Stuff whenever possible.
+* Reading, writing & watching Tech Stuff whenever possible. <br>
 
 
 <h3 align="center">Connect with me</h3>
