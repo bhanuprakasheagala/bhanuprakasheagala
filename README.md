@@ -3,20 +3,21 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Bhanuprakash Eagala</h1>
-<h3 align="center">A Computer Science enthusiast and a Software Developer from India</h3>
+<h3 align="center"> About Me </h3>
+<p> Graduate in Computer Science and Engineering with a knack for problem-solving and innovative coding solutions. Eager to collaborate, learn, and contribute to cutting-edge projects on GitHub. </p>
 
-- 🔭 I’m currently working as **C/C++ Developer in ADAS(Automotive domain)**
+- 🔭 Currently working as **C/C++ Developer in ADAS(Automotive domain)**
 
-- 🌱 Exploring **C, C++, Linux, AUTSAR, Network and System Programming**
+- 🌱 Exploring **C, C++, Linux, AUTOSAR, Network and System Programming**
 
-- 👯 I’m looking to collaborate on **C, C++, Operating System and Network Programming** and interested to work in the areas of **Compilers, Linux, RTOS, Network and System Programming**
+- 👯 Looking to collaborate on **C, C++, Operating System and Network Programming** and interested to work in the areas of **C/C++, Compilers, Linux, RTOS, Network and System Programming**
 
 - 📝 I regularly write articles on [https://bhanuprakasheagala.hashnode.dev](https://bhanuprakasheagala.hashnode.dev)
 
 ### My Absolute Favirotes
 * I love exploring new technologies and building cool stuff. <br>
 * Reading, writing & watching Tech Stuff whenever possible. <br>
-
+* Learning by doing : Working on building some cool stuff, Great way to have fun! <br>
 
 <h3 align="center">Connect with me</h3>
 <p align="center">
