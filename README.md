@@ -4,13 +4,13 @@
 
 <h1 align="center">Hi 👋, I'm Bhanuprakash Eagala</h1>
 <h3 align="center"> About Me </h3>
-<p> Graduate in Computer Science and Engineering with a knack for problem-solving and innovative coding solutions. Eager to collaborate, learn, and contribute to cutting-edge projects on GitHub. </p>
+<p> Graduate in Computer Science and Engineering with a knack for problem-solving and programming, especially in the area of System Programming. Eager to collaborate, learn, and contribute to interesting projects on GitHub. </p>
 
 - 🔭 Currently working as **C/C++ Developer in ADAS(Automotive domain)**
 
-- 🌱 Exploring **C, C++, Linux, AUTOSAR, Network and System Programming**
+- 🌱 Exploring **C, C++, Linux, AUTOSAR, Compilers, and System Programming**
 
-- 👯 Looking to collaborate on **C, C++, Operating System and Network Programming** and interested to work in the areas of **C/C++, Compilers, Linux, RTOS, Network and System Programming**
+- 👯 Interested to work and contribute in the areas of **C/C++ Programming, Compilers, Linux, RTOS, Network and System Programming**
 
 - 📝 I regularly write articles on [https://bhanuprakasheagala.hashnode.dev](https://bhanuprakasheagala.hashnode.dev)
 
