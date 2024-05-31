@@ -6,6 +6,8 @@
 <h3 align="center"> About Me </h3>
 <p> Graduate in Computer Science and Engineering with a knack for problem-solving and programming, especially in the area of System Programming. Eager to collaborate, learn, and contribute to interesting projects on GitHub. </p>
 
+-    Strong Foundational knowledge in **Operating System Concepts, Computer Organization and Architecture, Computer Networks, Database Concepts, Compiler Design, and Linux**.
+
 - 🔭 Currently working as **C/C++ Developer in ADAS(Automotive domain)**
 
 - 🌱 Exploring **C, C++, Linux, AUTOSAR, Compilers, and System Programming**
