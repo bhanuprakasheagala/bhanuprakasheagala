@@ -12,7 +12,7 @@
 
 - 🌱 Exploring **C, C++, Linux, AUTOSAR, Compilers, and System Programming**
 
-- 👯 Interested to work and contribute in the areas of **C/C++ Programming, Compilers, Linux, RTOS, Network and **
+- 👯 Interested to work and contribute in the areas of **C/C++ Programming, Compilers, Linux, RTOS**
 
 - 📝 I regularly write articles on [https://bhanuprakasheagala.hashnode.dev](https://bhanuprakasheagala.hashnode.dev)
 
