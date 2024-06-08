@@ -6,13 +6,13 @@
 <h3 align="center"> About Me </h3>
 <p> Graduate in Computer Science and Engineering with a knack for problem-solving and programming, especially in the area of System Programming. Eager to collaborate, learn, and contribute to interesting projects on GitHub. </p>
 
--    Strong Foundational knowledge in **Operating System Concepts, Computer Organization and Architecture, Computer Networks, Database Concepts, Compiler Design, and Linux**.
+-    Strong Foundational knowledge in **Operating System Concepts, Computer Organization and Architecture, Computer Networks, Database Concepts, Compiler Design, and Linux Internals**.
 
 - 🔭 Currently working as **C/C++ Developer in ADAS(Automotive domain)**
 
-- 🌱 Exploring **C, C++, Linux, AUTOSAR, Compilers, and System Programming**
+- 🌱 Exploring **C, C++, Linux, Compilers, and Operating Systems**
 
-- 👯 Interested to work and contribute in the areas of **C/C++ Programming, Compilers, Linux, RTOS**
+- 👯 Interested to work and contribute in the areas of **C and C++ Programming, Compilers, Linux Programming, RTOS, and Embedded Systems**
 
 - 📝 I regularly write articles on [https://bhanuprakasheagala.hashnode.dev](https://bhanuprakasheagala.hashnode.dev)
 
