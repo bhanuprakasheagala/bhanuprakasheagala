@@ -5,34 +5,32 @@
 <h1 align="center">Hi 👋, I'm Bhanuprakash Eagala</h1>
 <h3 align="center"> About Me </h3>
 
-### Hi there! 👋
+I’m a Computer Science and Engineering graduate with a strong passion for system programming and problem-solving. Currently, I'm channeling my skills as a C/C++ Developer in the automotive industry.
 
-I'm a passionate Computer Science and Engineering graduate with a strong affinity for problem-solving and programming, particularly in System Programming. I'm always eager to collaborate, learn, and contribute to exciting projects on GitHub.
+### 🚀 Current Adventure:
+**C/C++ Developer in ADAS (Automotive Domain)**  
+I’m working on advanced driver assistance systems, exploring the world of vehicle automation.
 
-#### 🔭 Current Role:
-I'm currently working as a C/C++ Developer in the ADAS (Automotive domain), where I apply my expertise to develop advanced driver assistance systems.
+### 🌟 What I'm Excited About:
+- **Languages:** C, C++
+- **Operating Systems:** Linux, RTOS
+- **Compiler Design:** Exploring compiler architectures and optimizations
+- **Embedded Systems:** Crafting and optimizing embedded software
 
-#### 🌱 Areas of Exploration:
-- **Programming Languages**: C, C++
-- **Operating Systems**: Linux, RTOS
-- **Compiler Design**: Exploring various compiler architectures and optimizations
-- **Embedded Systems**: Developing and optimizing embedded software
+### 🤝 Let's Collaborate On:
+- C and C++ Programming
+- Compiler and Language Design
+- Linux Programming and Kernel Development
+- Real-Time Operating Systems (RTOS)
+- Embedded Systems Projects
 
-#### 👯 Collaboration Interests:
-I'm keen on contributing to projects related to:
-- **C and C++ Programming**
-- **Compilers and Language Design**
-- **Linux Programming and Kernel Development**
-- **Real-Time Operating Systems (RTOS)**
-- **Embedded Systems**
-
-#### 📚 My Strong Foundations:
-- **Operating System Concepts**: In-depth understanding of OS principles and mechanisms
-- **Computer Organization and Architecture**: Knowledge of hardware-software interface and architectural design
-- **Computer Networks**: Proficient in network protocols and communication models
-- **Database Concepts**: Solid grasp of database management systems and design
-- **Compiler Design**: Comprehensive understanding of compiler construction and optimization techniques
-- **Linux Internals**: Expertise in Linux system calls, kernel modules, and shell scripting
+### 🔧 My Core Competencies:
+- **Operating Systems:** Deep understanding of OS principles and mechanisms
+- **Computer Architecture:** Insight into hardware-software interfaces and system design
+- **Networking:** Knowledge of network protocols and communication models
+- **Database Management:** Solid grasp of DBMS and design principles
+- **Compiler Construction:** Expertise in building and optimizing compilers
+- **Linux Internals:** Proficient in system calls, kernel modules, and shell scripting
 
 #### 📝 Writing:
 I regularly share my insights and learnings on my blog: [bhanuprakasheagala.hashnode.dev](https://bhanuprakasheagala.hashnode.dev)
@@ -66,4 +64,3 @@ Let's connect and collaborate on building something amazing! Feel free to check 
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
 <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-
