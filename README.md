@@ -30,7 +30,7 @@ I’m working on advanced driver assistance systems, exploring the world of vehi
 - **Networking:** Knowledge of network protocols and communication models
 - **Database Management:** Solid grasp of DBMS and design principles
 - **Compiler Construction:** Expertise in building and optimizing compilers
-- **Linux Internals:** Proficient in system calls, kernel modules, and shell scripting
+
 
 #### 📝 Writing:
 I regularly share my insights and learnings on my blog: [bhanuprakasheagala.hashnode.dev](https://bhanuprakasheagala.hashnode.dev)
