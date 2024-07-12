@@ -9,27 +9,21 @@ I’m a Computer Science and Engineering graduate with a strong passion for syst
 
 ### 🚀 Current Adventure:
 **C/C++ Developer in ADAS (Automotive Domain)**  
-I’m working on advanced driver assistance systems, exploring the world of vehicle automation.
+I’m working on advanced driver assistance systems, exploring the world of Embedded Software Development and System Programming.
 
 ### 🌟 What I'm Excited About:
-- **Languages:** C, C++
+- **Programming Languages:** C, C++, Python
 - **Operating Systems:** Linux, RTOS
 - **Compiler Design:** Exploring compiler architectures and optimizations
-- **Embedded Systems:** Crafting and optimizing embedded software
-
-### 🤝 Let's Collaborate On:
-- C and C++ Programming
-- Compiler and Language Design
-- Linux Programming and Kernel Development
-- Real-Time Operating Systems (RTOS)
-- Embedded Systems Projects
+- **Embedded Systems:** Developing and optimizing software for embedded applications
 
 ### 🔧 My Core Competencies:
-- **Operating Systems:** Deep understanding of OS principles and mechanisms
-- **Computer Architecture:** Insight into hardware-software interfaces and system design
-- **Networking:** Knowledge of network protocols and communication models
-- **Database Management:** Solid grasp of DBMS and design principles
-- **Compiler Construction:** Expertise in building and optimizing compilers
+- **Operating Systems:** In-depth understanding of OS principles and mechanisms
+- **Computer Architecture:** Knowledge of hardware-software interfaces and system design
+- **Networking:** Proficiency in network protocols and communication models
+- **Database Management:** Solid grasp of DBMS principles and design
+- **Compiler Construction:** Building and optimizing compilers for efficient code execution
+- **Linux Internals:** Experience with system calls, kernel modules, and shell scripting for robust applications
 
 
 #### 📝 Writing:
