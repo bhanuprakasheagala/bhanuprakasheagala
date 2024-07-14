@@ -5,25 +5,16 @@
 <h1 align="center">Hi 👋, I'm Bhanuprakash Eagala</h1>
 <h3 align="center"> About Me </h3>
 
-I’m a Computer Science and Engineering graduate with a strong passion for system programming and problem-solving. Currently, I'm channeling my skills as a C/C++ Developer in the automotive industry.
+I’m a Computer Science and Engineering graduate with a strong passion for system programming and problem-solving with over 4 years of experience in Software Development. Currently, I'm channeling my skills as a C/C++ Developer in the automotive industry in the ADAS (Advanced Driver Assistance Systems) domain. With a strong foundation in system programming, I am continually enhancing my expertise by exploring new technologies and frameworks. At present, I am delving into Python and the GTest framework to broaden my skill set and improve my development capabilities.
 
-### 🚀 Current Adventure:
-**C/C++ Developer in ADAS (Automotive Domain)**  
-I’m working on advanced driver assistance systems, exploring the world of Embedded Software Development and System Programming.
-
-### 🌟 What I'm Excited About:
-- **Programming Languages:** C, C++, Python
-- **Operating Systems:** Linux, RTOS
-- **Compiler Design:** Exploring compiler architectures and optimizations
-- **Embedded Systems:** Developing and optimizing software for embedded applications
-
-### 🔧 My Core Competencies:
-- **Operating Systems:** In-depth understanding of OS principles and mechanisms
+### 🔧 My Core Competencies and Skills:
+- **Programming languages:** C, C++, and Python
+- **Operating Systems:** Linux Internals and In-depth understanding of OS principles and mechanisms
 - **Computer Architecture:** Knowledge of hardware-software interfaces and system design
 - **Networking:** Proficiency in network protocols and communication models
 - **Database Management:** Solid grasp of DBMS principles and design
 - **Compiler Construction:** Building and optimizing compilers for efficient code execution
-- **Linux Internals:** Experience with system calls, kernel modules, and shell scripting for robust applications
+- **Tools:** Git, GTest framework, Jira, Jenkins, and Bash scripting
 
 
 #### 📝 Writing:
