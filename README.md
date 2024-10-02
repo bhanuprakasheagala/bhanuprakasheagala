@@ -21,8 +21,7 @@ I’m a Computer Science and Engineering graduate with a strong passion for syst
 I regularly share my insights and learnings on my blog: [bhanuprakasheagala.hashnode.dev](https://bhanuprakasheagala.hashnode.dev)
 
 #### 📂 Featured Projects:
-<a href="https://github.com/bhanuprakasheagala/litecode"> litecode </a>  : This is a C++ implementation of the Tree-Walk Interpreter inspired by <a href="https://craftinginterpreters.com">Crafting Interpreters</a> by **Robert Nystrom** which I am working currently in my leisure time.<br/>
-You can find few more Mini Projects at my repo : <a href="https://github.com/bhanuprakasheagala/MyCodingProjects"> My Coding Projects</a>
+<a href="https://github.com/bhanuprakasheagala/litecode"> litecode </a>  : This is a C++ implementation of the Tree-Walk Interpreter inspired by <a href="https://craftinginterpreters.com">Crafting Interpreters</a> by **Robert Nystrom** which I am working currently in my leisure time. You can find few more Mini Projects at my repo : <a href="https://github.com/bhanuprakasheagala/MyCodingProjects"> My Coding Projects</a>
 
 #### Certifications:
 <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/CQH243S5PQVQ">IBM Cybersecurity Analyst</a> : In this Specialization offered by IBM, there are 8 professional courses from Coursera Platform, I gained essential cybersecurity knowledge and skills, including data protection, endpoint protection, SIEM, and network fundamentals. I learned about compliance, threat intelligence, incident response, and forensics. My skills were tested through multiple assessments, a real-world breach case study, and several hands-on virtual labs.
