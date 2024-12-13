@@ -11,7 +11,7 @@ I’m a Computer Science and Engineering graduate with a strong passion for syst
 - **Programming languages:** C, C++, and Python
 - **Operating Systems:** Linux Internals and In-depth understanding of OS principles and mechanisms
 - **Computer Architecture:** Knowledge of hardware-software interfaces and system design
-- **Networking:** Proficiency in network protocols and communication models
+- **Networking:** Proficiency in Layered Architecture, network protocols, Socket programming, and communication models
 - **Database Management:** Solid grasp of DBMS principles and design
 - **Compiler Construction:** Building and optimizing compilers for efficient code execution
 - **Tools:** Git, GTest framework, Jira, Jenkins, and Bash scripting
@@ -26,10 +26,10 @@ I regularly share my insights and learnings on my blog: [bhanuprakasheagala.hash
 #### Certifications:
 <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/CQH243S5PQVQ">IBM Cybersecurity Analyst</a> : In this Specialization offered by IBM, there are 8 professional courses from Coursera Platform, I gained essential cybersecurity knowledge and skills, including data protection, endpoint protection, SIEM, and network fundamentals. I learned about compliance, threat intelligence, incident response, and forensics. My skills were tested through multiple assessments, a real-world breach case study, and several hands-on virtual labs.
 
-<a href="https://www.coursera.org/specializations/data-structures-algorithms">Data Structures and Algorithms Specialization</a> : This is a Specialization offered by <a href="https://www.ucsd.edu">UC SanDiego</a> from Coursera, currently **In Progress**. There are 6 Courses focusing on core Algorithm design techniques, Datastructures, problem solving, and real time applications.
+<a href="https://www.coursera.org/specializations/data-structures-algorithms">Data Structures and Algorithms Specialization</a> : This is a Specialization offered by <a href="https://www.ucsd.edu">UC SanDiego</a> from <a href="https://www.coursera.org/specializations/data-structures-algorithms">Coursera</a>, currently **In Progress**. There are 6 Courses focusing on core Algorithm design techniques, Datastructures, problem solving, and real time applications.
 
 #### 🌟 My Favorites:
-- **Tech Exploration**: I love diving into new technologies and creating innovative solutions.
+- **Exploring**: I love diving into new technologies and creating innovative solutions.
 - **Continuous Learning**: Engaging in hands-on projects to build and learn is my way of having fun.
 - **Tech Content**: Enjoy reading, writing, and consuming tech-related content in my spare time.
 
