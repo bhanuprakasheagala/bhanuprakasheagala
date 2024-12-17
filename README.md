@@ -10,11 +10,11 @@ I’m a Computer Science and Engineering graduate with a strong passion for syst
 ### 🔧 My Core Competencies and Skills:
 - **Programming languages:** C, C++, and Python
 - **Operating Systems:** Linux Internals and In-depth understanding of OS principles and mechanisms
-- **Computer Architecture:** Knowledge of hardware-software interfaces and system design
+- **Computer Architecture:** Knowledge of hardware-software interfaces and system design. Comfortable in foundations of Computer Organization and Architecture concepts
 - **Networking:** Proficiency in Layered Architecture, network protocols, Socket programming, and communication models
 - **Database Management:** Solid grasp of DBMS principles and design
 - **Compiler Construction:** Building and optimizing compilers for efficient code execution
-- **Tools:** Git, GTest framework, Jira, Jenkins, and Bash scripting
+- **Tools:** Git, GTest framework, Coverity for static analysis, Jira, Jenkins, Bash scripting, and AWS Cloud
 
 
 #### 📝 Writing:
